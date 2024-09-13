@@ -1,6 +1,9 @@
 Tehtävä täysin vapaaehtoinen!
 
-Forkkaa projekti itsellesi, ja koita luoda toimiva Neljän suora (Connect Four) -peli. Mikäli peli ei ole tuttu, löytyy netistä peliohjeet ja videoita. Tarkoitus luoda projekti ilman ulkoisia assetteja, käyttäen ainoastaan 
+Forkkaa projekti itsellesi, ja koita luoda toimiva Neljän suora (Connect Four) -peli. Mikäli peli ei tuttu, niin tässä ohjeet:
+https://www.youtube.com/watch?v=ylZBRUJi3UQ
+
+Tarkoitus luoda projekti ilman ulkoisia assetteja, käyttäen ainoastaan 
 Unityn primitiivisiä gameobjekteja sekä annettua kuvaa pelilaudasta.
 
 Mikäli haluat, saat projektin tehtyäsi arvioinnin projektin ohjelmoinnista.
